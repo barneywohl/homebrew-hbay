@@ -7,9 +7,9 @@
 class Hbay < Formula
   desc "Hugging Bay supply-chain CLI: lock, restore, and dedup model artifacts"
   homepage "https://huggingbay.xyz"
-  url "https://huggingbay.xyz/dl/hbay-0.1.0.tar.gz"
-  version "0.1.0"
-  sha256 "38bfa2905b82b97897ec7aed3ba0c94111735be4ff5b2f8508d1e57a17f48be0"
+  url "https://huggingbay.xyz/dl/hbay-0.1.3.tar.gz"
+  version "0.1.3"
+  sha256 "e9b342312e5148ca695fbdf255f22592a3e77ef52362848cfa2fcd6409439be8"
   license "MIT"
 
   depends_on "node"
